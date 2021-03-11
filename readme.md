@@ -1,3 +1,6 @@
+Forked to remove [x] box on each childless branch of treeview
+
+
 [![Build Status](https://travis-ci.org/drcmda/react-animated-tree.svg?branch=master)](https://travis-ci.org/drcmda/react-animated-tree) [![npm version](https://badge.fury.io/js/react-animated-tree.svg)](https://badge.fury.io/js/react-animated-tree)
 
     npm install react-animated-tree
