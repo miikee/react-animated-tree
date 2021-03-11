@@ -34,6 +34,8 @@ const EyeO = props => (
   </svg>
 )
 
+const CloseSquareO = props => (null)
+/* 
 const CloseSquareO = props => (
   <svg {...props} viewBox="64 -65 897 897">
     <g>
@@ -44,5 +46,6 @@ const CloseSquareO = props => (
     </g>
   </svg>
 )
+*/
 
 export { PlusSquareO, MinusSquareO, CloseSquareO, EyeO }
